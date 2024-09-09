@@ -1,7 +1,6 @@
 import py_compile
 import os
 
-# Ensure the __pycache__ directory exists
 pycache_dir = '__pycache__'
 if not os.path.exists(pycache_dir):
     os.makedirs(pycache_dir)
