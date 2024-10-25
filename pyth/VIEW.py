@@ -37,4 +37,4 @@ def view_pyc_file(path):
 
 
 if __name__ == '__main__':
-    view_pyc_file("/Users/pratyushsinha/Documents/GitHub/Compiler/__pycache__/test.pyc")
+    view_pyc_file("/Users/pratyushsinha/Github/Compiler/pyth/test1.py")
