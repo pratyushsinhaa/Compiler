@@ -71,7 +71,7 @@ void interpret(byte* bytecode, int size) {
 
 int main() {
     // Path to the bytecode file
-    const char* filepath = "/Users/pratyushsinha/GitHub/Compiler/__pycache__/test.pyc";  // Adjust the path as needed
+    const char* filepath = "/Users/pratyushsinha/GitHub/Compiler/pyth/__pycache__/test2.pyc";  // Adjust the path as needed
 
     // Open the bytecode file
     FILE* file = fopen(filepath, "rb");
